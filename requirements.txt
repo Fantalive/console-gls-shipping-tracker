@@ -1,0 +1,13 @@
+requests==2.31.0      	# For API requests
+py-notifier==0.3.2   	# For PC notifications
+colorama==0.4.6      	# For colorful terminal output
+time			# For time.
+logging			# Logging.
+json			# Parse JSON api data.
+notifications		# Notifications
+os			# OS
+datetime		# Date Time
+argparse		# Argparse for arguments
+signal			# Signal
+sys			# Sys.
+	

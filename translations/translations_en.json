@@ -1,0 +1,14 @@
+{
+    "parcel_tracking_data": "Parcel Tracking Data",
+    
+    "parcel_number": "Parcel Number: ",
+    "postal_code": "Postal Code: ",
+    "postage_type": "Product: ",
+    "weight": "Weight: ",
+    "services": "Services: ",
+    "current_status": "Current Status: ",
+    "last_updated": "Last Updated: ",
+    "history": "History: ",
+    "country": "Country",
+    "city": "City"
+}

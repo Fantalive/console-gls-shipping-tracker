@@ -1,0 +1,15 @@
+{
+    "parcel_tracking_data": "Données de suivi des colis",
+    
+    "parcel_number": "Numéro de colis: ",
+    "postal_code": "Code postal: ",
+    "postage_type": "Type d'affranchissement: ",
+    "weight": "Poids: ",
+    "services": "Services: ",
+    "current_status": "Statut actuel: ",
+    "last_updated": "Dernière mise à jour: ",
+    "history": "Historique: ",
+    "country": "le pays",
+    "city": "la ville"
+    
+}

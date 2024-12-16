@@ -1,0 +1,14 @@
+{
+    "parcel_tracking_data": "Paketverfolgungsdaten",
+    
+    "parcel_number": "Sendungsnummer: ",
+    "postal_code": "Postleitzahl: ",
+    "postage_type": "Produkt: ",
+    "weight": "Gewicht: ",
+    "services": "Dienstleistungen: ",
+    "current_status": "Aktueller Status: ",
+    "last_updated": "Letzte Aktualisierung: ",
+    "history": "Verlauf: ",
+    "country": "Land",
+    "city": "Stadt"
+}

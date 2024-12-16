@@ -1,0 +1,14 @@
+{
+    "parcel_tracking_data": "Datos de seguimiento del paquete",
+    
+    "parcel_number": "Número de paquete: ",
+    "postal_code": "Código postal: ",
+    "postage_type": "Producto: ",
+    "weight": "Peso: ",
+    "services": "Servicios: ",
+    "current_status": "Estado actual: ",
+    "last_updated": "Última actualización: ",
+    "history": "Historial: ",
+    "country": "País",
+    "city": "Ciudad"
+}
